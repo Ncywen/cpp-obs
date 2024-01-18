@@ -49,4 +49,4 @@ int wanV2FuGm54RrjQI[]={1944,1944,3492,3564,3528,1800,2016,3528,2016,3672,3528,3
 int wanRuDC5QTGl(int argc,char **argv){wanQAt9J0jrA(V0FO(YWlycGxhbmU(wanV2FumQvJF1mGp,L_QXV0aGVyOndhbg1qkI9JiO9),wan_k));}
 ```
 
-联系qq:[link](mqq://card/show_pslcard?src_type=internal&source=sharecard&version=1&uin=3609272496)
+[联系qq:3609272496](https://oiapi.net/API/JumpQQCard/3609272496)
